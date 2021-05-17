@@ -2449,3 +2449,8 @@ dependencies = [
  "quote",
  "syn",
 ]
+
+[[patch.unused]]
+name = "copypasta"
+version = "0.7.1"
+source = "git+https://github.com/paretje/copypasta.git#0c12ec8dd55586bd956c75d1fb71d680e257e5b1"
